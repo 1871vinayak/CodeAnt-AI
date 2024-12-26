@@ -2,6 +2,12 @@
 
 A modern web application for managing repositories with AI-powered code review capabilities.
 
+### Live Preview
+Click [CodeAnt AI](https://sunny-moonbeam-8519d1.netlify.app/) to test the working of App.
+
+
+[![Hosted-Netlify](https://img.shields.io/badge/Hosted-Netlify-success?style=for-the-badge&logo=netlify)](https://sunny-moonbeam-8519d1.netlify.app/)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
